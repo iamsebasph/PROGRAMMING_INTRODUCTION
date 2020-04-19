@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+"El programa fue creado por Sebastián Pérez. El programa determina el salario de un empleado"
+4
+1
+56
+"Ingrese el valor del sueldo por el cual fue contratado"
+5
+1
+1
+S
+4
+1
+36
+"Ingrese los días trabajados al mes"
+5
+1
+1
+D
+7
+0
+1
+12
+D<=0 or D>30
+6
+1
+7
+SALARIO
+8
+(S/30)*D
+4
+1
+25
+"El salario es:", SALARIO
+13
+4
+1
+29
+"El valor del día es erróneo"
+13
+1

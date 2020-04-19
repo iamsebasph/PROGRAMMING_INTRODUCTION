@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+"Este programa determina el mayor de los números"
+4
+1
+21
+"Ingrese el número 1"
+5
+1
+2
+N1
+4
+1
+21
+"Ingrese el número 2"
+5
+1
+2
+N2
+4
+1
+21
+"Ingrese el número 3"
+5
+1
+2
+N3
+7
+0
+1
+15
+N1=N2 and N1=N3
+7
+0
+1
+15
+N1>N2 and N1>N3
+7
+0
+1
+15
+N2>N1 and N2>N3
+4
+1
+18
+"EL MAYOR ES:", N3
+13
+4
+1
+18
+"EL MAYOR ES:", N2
+13
+13
+4
+1
+18
+"EL MAYOR ES:", N1
+13
+13
+4
+1
+31
+"Todos los números son iguales"
+13
+1

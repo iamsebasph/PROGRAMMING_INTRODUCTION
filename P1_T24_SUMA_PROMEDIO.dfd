@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+102
+"Este programa fue diseñado por Sebastián. Suma y promedia números mayores que 100. Ingrese un número"
+5
+1
+1
+N
+6
+3
+5
+TOTAL
+1
+0
+7
+average
+1
+0
+8
+contador
+1
+0
+9
+1
+8
+N >= 100
+6
+2
+5
+TOTAL
+7
+TOTAL+N
+8
+contador
+10
+contador+1
+4
+1
+29
+"Ingrese el siguiente número"
+5
+1
+1
+N
+11
+6
+1
+7
+average
+14
+TOTAL/contador
+4
+1
+106
+"La suma es: ", TOTAL, " El pomedio es: ", average, " La cantidad de números que ingresó fue: ", contador 
+1

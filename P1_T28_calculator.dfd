@@ -1,0 +1,134 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+"This program simulates a calculator"
+6
+1
+6
+option
+1
+9
+9
+1
+11
+option != 0
+4
+1
+78
+"Write 1 for add; 2 for substract; 3 for multiplying; 4 for divide; 0 to exit"
+5
+1
+6
+option
+7
+0
+1
+10
+option = 1
+7
+0
+1
+10
+option = 2
+7
+0
+1
+10
+option = 3
+7
+0
+1
+10
+option = 4
+4
+1
+30
+"This option is not available"
+13
+4
+1
+37
+"DIVISION: Input number1 and number2"
+5
+1
+16
+number1, number2
+6
+1
+8
+division
+15
+number1/number2
+4
+1
+27
+"The result is: ", division
+13
+13
+4
+1
+43
+"MULTIPLICATION: Input number1 and number2"
+5
+1
+16
+number1, number2
+6
+1
+14
+multiplication
+15
+number1*number2
+4
+1
+33
+"The result is: ", multiplication
+13
+13
+4
+1
+46
+"SUBSTRACT: Input the first and second number"
+5
+1
+16
+number1, number2
+6
+1
+9
+substract
+15
+number1-number2
+4
+1
+28
+"The result is: ", substract
+13
+13
+4
+1
+44
+"SUMMARY: Input the first and second number"
+5
+1
+16
+number1, number2
+6
+1
+7
+summary
+15
+number1+number2
+4
+1
+26
+"The result is: ", summary
+13
+11
+1

@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+111
+"Este programa fue creado por Sebastián. Determina cuantos productos se compran y cuanto fue el valor que pago"
+6
+2
+4
+SUMA
+1
+0
+8
+contador
+1
+0
+9
+1
+13
+SUMA < 500000
+4
+1
+43
+"ingrese el valor del producto: ", contador
+5
+1
+8
+producto
+6
+2
+4
+SUMA
+13
+SUMA+producto
+8
+contador
+10
+contador+1
+11
+6
+1
+4
+SUMA
+13
+SUMA-producto
+4
+1
+85
+"La cantidad de productos que compró es: ", contador, " El valor que pagó es: ", SUMA
+1

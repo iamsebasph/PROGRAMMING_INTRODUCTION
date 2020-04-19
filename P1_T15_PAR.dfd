@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+95
+"Este programa fue creado por: Sebastián Pérez. El programa indica si el número es par o impar"
+4
+1
+19
+"Ingrese el número"
+5
+1
+1
+N
+6
+1
+7
+RESIDUO
+7
+N mod 2
+7
+0
+1
+9
+RESIDUO=0
+4
+1
+7
+"IMPAR"
+13
+4
+1
+5
+"PAR"
+13
+1

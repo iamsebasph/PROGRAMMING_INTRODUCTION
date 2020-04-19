@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+144
+"Este programa simula la ruta de un autobus determina cuantos pasajeros fueron transportados y cuánto dinero se obtuvo si cada boleto vale $150"
+6
+2
+6
+DINERO
+1
+0
+14
+TOTALPASAJEROS
+1
+0
+4
+1
+30
+"Ingrese el número de paradas"
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+63
+"Ingrese el número de pasajeros que entraron en la parada: ", i
+5
+1
+9
+pasajeros
+6
+2
+6
+DINERO
+20
+150*pasajeros+DINERO
+14
+TOTALPASAJEROS
+24
+pasajeros+TOTALPASAJEROS
+10
+4
+1
+91
+"El dinero total es: ", DINERO, " El total de pasajeros transportados es: ", TOTALPASAJEROS
+1

@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+"Este programa determina la presión sistólica"
+4
+1
+20
+"Ingrese la presión"
+5
+1
+1
+P
+7
+0
+1
+3
+P<0
+7
+0
+1
+14
+64<P and P<160
+4
+1
+25
+"El paciente está muerto"
+13
+7
+0
+1
+5
+P<120
+7
+0
+1
+6
+P<=139
+7
+0
+1
+6
+P<=159
+13
+4
+1
+24
+"Hipertensión Estadio 1"
+13
+13
+4
+1
+17
+"prehipertensión"
+13
+13
+4
+1
+8
+"Normal"
+13
+13
+13
+4
+1
+40
+"ERROR: El dato ingresado es incorrecto"
+13
+1

@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+"Este programa fue creado por Sebastián Pérez. El programa determina la cantidad de días de determinado mes"
+4
+1
+26
+"Ingrese el número de mes"
+5
+1
+1
+M
+7
+0
+1
+13
+M<=0 and M>12
+7
+0
+1
+47
+M=1 or M=3 or M=5 or M=7 or M=8 or M=10 or M=12
+7
+0
+1
+25
+M=4 or M=6 or M=9 or M=11
+4
+1
+22
+"El mes tiene 29 días"
+13
+4
+1
+22
+"El mes tiene 30 días"
+13
+13
+4
+1
+22
+"El mes tiene 31 días"
+13
+13
+4
+1
+20
+"El dato es erróneo"
+13
+1

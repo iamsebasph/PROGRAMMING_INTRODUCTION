@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+"Este programa va a calcular el valor de los productos más el IVA"
+4
+1
+38
+"Ingrese el valor del primer producto"
+5
+1
+9
+PRODUCTO1
+4
+1
+39
+"Ingrese el valor del segundo producto"
+5
+1
+9
+PRODUCTO2
+4
+1
+38
+"Ingrese el valor del tercer producto"
+5
+1
+9
+PRODUCTO3
+4
+1
+38
+"Ingrese el valor del cuarto producto"
+5
+1
+9
+PRODUCTO4
+6
+3
+4
+SUMA
+39
+PRODUCTO1+PRODUCTO2+PRODUCTO3+PRODUCTO4
+3
+IVA
+9
+SUMA*0.19
+5
+TOTAL
+8
+SUMA+IVA
+4
+1
+73
+"Valor productos:", SUMA, " Valor del IVA" ,IVA, " TOTAL A PAGAR:" ,TOTAL
+1
