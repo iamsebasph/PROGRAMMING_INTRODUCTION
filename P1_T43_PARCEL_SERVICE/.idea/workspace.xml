@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1eee5f3-b0e2-4092-b706-daa59e267ddb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zwd19WC0pcHwKhsfv3Va5Ek35g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.usta.sistemas.Main" />
+      <module name="P1_T43_PARCEL_SERVICE" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1eee5f3-b0e2-4092-b706-daa59e267ddb" name="Default Changelist" comment="" />
+      <created>1585753872565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585753872565</updated>
+      <workItem from="1585753876117" duration="2633000" />
+      <workItem from="1586787353513" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="584" height="176" key="GridCell.Tab.0.bottom" timestamp="1585756511252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="584" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585756511252" />
+    <state width="584" height="176" key="GridCell.Tab.0.center" timestamp="1585756511252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="584" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585756511252" />
+    <state width="584" height="176" key="GridCell.Tab.0.left" timestamp="1585756511251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="584" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585756511251" />
+    <state width="584" height="176" key="GridCell.Tab.0.right" timestamp="1585756511252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="584" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585756511252" />
+    <state x="740" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586787353564">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="740" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586787353564" />
+    <state x="131" y="0" key="new project wizard" timestamp="1586787669717">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586787669717" />
+  </component>
+</project>
