@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         //AUTHOR: Sebastián Pérez Hernández
         //DATE: 20/04/2020
-        //DESCRICPTION
+        //DESCRIPTION
     }
 }

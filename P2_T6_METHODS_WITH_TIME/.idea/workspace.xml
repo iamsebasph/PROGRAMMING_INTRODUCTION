@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87e9c00b-4df2-45d7-b185-ea6bec11d4ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../P2_T10_AVERAGE_HEIGHT/P2_T10_AVERAGE_HEIGHT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usta/sistemas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usta/sistemas/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +46,17 @@
       <option name="presentableId" value="Default" />
       <updated>1587389814890</updated>
       <workItem from="1587389818197" duration="1456000" />
+      <workItem from="1587477542326" duration="935000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="131" y="0" key="new project wizard" timestamp="1587478492142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587478492142" />
   </component>
 </project>
