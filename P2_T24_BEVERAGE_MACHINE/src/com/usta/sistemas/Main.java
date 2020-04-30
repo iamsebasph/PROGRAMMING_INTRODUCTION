@@ -14,7 +14,7 @@ public class Main {
         int cost_product = f_data_product(product, 1);//Retorna el costo del producto
         int product_time = f_data_product(product, 2); //Retorna el tiempo
         int money_user = f_input_money();
-        while (money_user <= cost_product) {
+        while (money_user < cost_product) {
             System.err.println("You need to input $"+ (cost_product-money_user)+" money ");
             money_user+= f_input_money();
         }
