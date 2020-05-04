@@ -17,8 +17,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -48,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588603672750</updated>
       <workItem from="1588603676838" duration="1932000" />
+      <workItem from="1588605864764" duration="257000" />
     </task>
     <servers />
   </component>
@@ -71,5 +75,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="580" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588605599137" />
+    <state x="131" y="0" key="new project wizard" timestamp="1588606124117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588606124117" />
   </component>
 </project>
