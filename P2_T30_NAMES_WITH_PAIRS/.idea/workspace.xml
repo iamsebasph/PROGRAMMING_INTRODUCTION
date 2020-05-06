@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0834d1f3-c863-4b0d-a9c2-551ce95632fa" name="Default Changelist" comment="" />
+    <list default="true" id="745cac0d-18bb-4921-8a88-ca2a9afb2095" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1bUifhj9CNnQlqXTPfVeaycsomF" />
+  <component name="ProjectId" id="1bXVdwqNDRahnL7ntQVMfk9c4CX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +23,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.usta.sistemas.Main" />
-      <module name="P2_T28_INPUT_N_NUMBERS" />
+      <module name="P2_T30_NAMES_WITH_PAIRS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -31,19 +31,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0834d1f3-c863-4b0d-a9c2-551ce95632fa" name="Default Changelist" comment="" />
-      <created>1588693177135</created>
+      <changelist id="745cac0d-18bb-4921-8a88-ca2a9afb2095" name="Default Changelist" comment="" />
+      <created>1588778516042</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1588693177135</updated>
-      <workItem from="1588693180307" duration="2113000" />
-      <workItem from="1588774550981" duration="450000" />
+      <updated>1588778516042</updated>
+      <workItem from="1588778520481" duration="2316000" />
     </task>
     <servers />
   </component>
@@ -51,9 +55,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="131" y="0" key="new project wizard" timestamp="1588775014761">
+    <state width="580" height="176" key="GridCell.Tab.0.bottom" timestamp="1588780842265">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588775014761" />
+    <state width="580" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588780842265" />
+    <state width="580" height="176" key="GridCell.Tab.0.center" timestamp="1588780842264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="580" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588780842264" />
+    <state width="580" height="176" key="GridCell.Tab.0.left" timestamp="1588780842264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="580" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588780842264" />
+    <state width="580" height="176" key="GridCell.Tab.0.right" timestamp="1588780842265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="580" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588780842265" />
   </component>
 </project>
