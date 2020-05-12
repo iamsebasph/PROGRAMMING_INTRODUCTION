@@ -17,8 +17,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -48,6 +51,11 @@
       <option name="presentableId" value="Default" />
       <updated>1588871149565</updated>
       <workItem from="1588871153011" duration="3286000" />
+      <workItem from="1589052077556" duration="207000" />
+      <workItem from="1589052381632" duration="458000" />
+      <workItem from="1589053710908" duration="619000" />
+      <workItem from="1589205415631" duration="609000" />
+      <workItem from="1589292545790" duration="896000" />
     </task>
     <servers />
   </component>
@@ -55,6 +63,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1589053764828">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589053764828" />
     <state width="580" height="176" key="GridCell.Tab.0.bottom" timestamp="1588874601480">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -71,5 +83,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="580" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588874601480" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1589052312059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589052312059" />
+    <state x="131" y="0" key="new project wizard" timestamp="1589293448532">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589293448532" />
   </component>
 </project>
