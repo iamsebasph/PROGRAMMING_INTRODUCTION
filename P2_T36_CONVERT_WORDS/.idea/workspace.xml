@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="750244f8-29e1-4d60-ae0b-bd540f566a3a" name="Default Changelist" comment="" />
+    <list default="true" id="6db53fd1-5b14-4e36-842f-ea4355e29d5a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1brA51Oyt9zHpFfRSxb0RMHMbYg" />
+  <component name="ProjectId" id="1buJFNsvKd7PtKuGILwmkDz5cwm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -25,7 +25,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.usta.sistemas.Main" />
-      <module name="P2_T35_RATING_THE_FOOD" />
+      <module name="P2_T36_CONVERT_WORDS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -44,13 +44,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="750244f8-29e1-4d60-ae0b-bd540f566a3a" name="Default Changelist" comment="" />
-      <created>1589379651716</created>
+      <changelist id="6db53fd1-5b14-4e36-842f-ea4355e29d5a" name="Default Changelist" comment="" />
+      <created>1589475940821</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589379651716</updated>
-      <workItem from="1589379656376" duration="4150000" />
-      <workItem from="1589471588387" duration="630000" />
+      <updated>1589475940821</updated>
+      <workItem from="1589475945559" duration="2251000" />
     </task>
     <servers />
   </component>
@@ -58,29 +57,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1589380177693">
+    <state width="546" height="163" key="GridCell.Tab.0.bottom" timestamp="1589478094060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589380177693" />
-    <state width="546" height="163" key="GridCell.Tab.0.bottom" timestamp="1589385533064">
+    <state width="546" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589478094060" />
+    <state width="546" height="163" key="GridCell.Tab.0.center" timestamp="1589478094059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="546" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589385533064" />
-    <state width="546" height="163" key="GridCell.Tab.0.center" timestamp="1589385533064">
+    <state width="546" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589478094059" />
+    <state width="546" height="163" key="GridCell.Tab.0.left" timestamp="1589478094059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="546" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589385533064" />
-    <state width="546" height="163" key="GridCell.Tab.0.left" timestamp="1589385533063">
+    <state width="546" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589478094059" />
+    <state width="546" height="163" key="GridCell.Tab.0.right" timestamp="1589478094059">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="546" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589385533063" />
-    <state width="546" height="163" key="GridCell.Tab.0.right" timestamp="1589385533064">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="546" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589385533064" />
-    <state x="107" y="0" key="new project wizard" timestamp="1589475940230">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="107" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589475940230" />
+    <state width="546" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589478094059" />
   </component>
 </project>
