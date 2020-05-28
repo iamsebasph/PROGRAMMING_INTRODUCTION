@@ -19,6 +19,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -52,6 +54,8 @@
       <workItem from="1590425707670" duration="816000" />
       <workItem from="1590434135309" duration="5817000" />
       <workItem from="1590450357831" duration="2914000" />
+      <workItem from="1590501143152" duration="149000" />
+      <workItem from="1590501898011" duration="273000" />
     </task>
     <servers />
   </component>
@@ -95,5 +99,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590454468942" />
+    <state x="73" y="0" key="new project wizard" timestamp="1590502174316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="73" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590502174316" />
   </component>
 </project>
