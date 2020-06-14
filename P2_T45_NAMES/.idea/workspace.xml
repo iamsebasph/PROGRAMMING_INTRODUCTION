@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e868ff3e-ce7d-4515-9bea-234a0e94467c" name="Default Changelist" comment="" />
+    <list default="true" id="2b2b37f4-f824-4c6b-bfcd-e31168d4794e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1cixeQRkzPKeQMDM8IgqLBKVT7A" />
+  <component name="ProjectId" id="1clfVCtEsJVl2sLxGiQsg8ph0YW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -25,7 +25,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.usta.sistemas.Main" />
-      <module name="P2_T44_PROGRAMMER_TXT" />
+      <module name="P2_T45_NAMES" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -44,13 +44,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e868ff3e-ce7d-4515-9bea-234a0e94467c" name="Default Changelist" comment="" />
-      <created>1591025309427</created>
+      <changelist id="2b2b37f4-f824-4c6b-bfcd-e31168d4794e" name="Default Changelist" comment="" />
+      <created>1591108122033</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591025309427</updated>
-      <workItem from="1591025312858" duration="1258000" />
-      <workItem from="1591107473556" duration="643000" />
+      <updated>1591108122033</updated>
+      <workItem from="1591108128921" duration="3445000" />
+      <workItem from="1591111945769" duration="612000" />
     </task>
     <servers />
   </component>
@@ -58,25 +58,36 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="550" height="163" key="GridCell.Tab.0.bottom" timestamp="1591026571535">
+    <state width="550" height="163" key="GridCell.Tab.0.bottom" timestamp="1591111589378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="550" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591026571535" />
-    <state width="550" height="163" key="GridCell.Tab.0.center" timestamp="1591026571535">
+    <state width="550" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591111589378" />
+    <state width="550" height="163" key="GridCell.Tab.0.center" timestamp="1591111589378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="550" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591026571535" />
-    <state width="550" height="163" key="GridCell.Tab.0.left" timestamp="1591026571535">
+    <state width="550" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591111589378" />
+    <state width="550" height="163" key="GridCell.Tab.0.left" timestamp="1591111589378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="550" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591026571535" />
-    <state width="550" height="163" key="GridCell.Tab.0.right" timestamp="1591026571535">
+    <state width="550" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591111589378" />
+    <state width="550" height="163" key="GridCell.Tab.0.right" timestamp="1591111589378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="550" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591026571535" />
-    <state x="131" y="0" key="new project wizard" timestamp="1591108121235">
+    <state width="550" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591111589378" />
+    <state x="131" y="0" key="new project wizard" timestamp="1591111581940">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591108121235" />
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591111581940" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/usta/sistemas/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
