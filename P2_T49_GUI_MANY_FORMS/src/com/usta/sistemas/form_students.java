@@ -6,6 +6,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class form_students extends JFrame {
+    //AUTHOR: Sebastian Perez Hernandez
+    //DATE: 09/06/2020
+    //DESCRIPTION: This class creates the form students
     public JTextField text_name, text_lastname, text_faculty;
 
     public form_students() {

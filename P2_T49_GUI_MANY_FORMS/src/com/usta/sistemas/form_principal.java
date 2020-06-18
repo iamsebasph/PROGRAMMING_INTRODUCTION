@@ -6,6 +6,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class form_principal extends JFrame {
+    //AUTHOR: Sebastian Perez Hernandez
+    //DATE: 09/06/2020
+    //DESCRIPTION: This class creates the form principal
     public form_principal() {
         super("Software de prueba");
         setLayout(new BorderLayout());
@@ -80,9 +83,11 @@ public class form_principal extends JFrame {
     }
 
     private void f_abrir_form_show_all_student(java.awt.event.ActionEvent evt) {
+        //DESCRIPTION:This method brings the show students
         form_show_all_students form_show_all_students1 = new form_show_all_students(this);
     }
     private void f_abrir_form_show_all_scholarships(java.awt.event.ActionEvent e){
+        //DESCRIPTION: This method brings the show students
         form_show_all_scholarships form_show_all_scholarships1 = new form_show_all_scholarships(this);
     }
 }

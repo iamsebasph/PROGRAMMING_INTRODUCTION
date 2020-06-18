@@ -6,6 +6,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class form_acerca_de extends JFrame {
+    //AUTHOR: Sebastian Perez Hernandez
+    //DATE: 09/06/2020
+    //DESCRIPTION: This class creates the form acerca de
     public form_acerca_de(){
         setLayout(new BorderLayout());
         //Panel superior

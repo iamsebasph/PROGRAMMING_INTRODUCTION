@@ -6,6 +6,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class form_scholarships_and_discounts extends JFrame {
+    //AUTHOR: Sebastian Perez Hernandez
+    //DATE: 09/06/2020
+    //DESCRIPTION: This class creates the form scholarships
     public JTextField text_code, text_sede, text_facultad, text_valor;
 
     public form_scholarships_and_discounts() {

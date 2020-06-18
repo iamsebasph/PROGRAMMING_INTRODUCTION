@@ -6,7 +6,7 @@ import java.awt.*;
 public class form_show_all_students extends JDialog {
     //AUTHOR: Sebastian Perez Hernandez
     //DATE: 09/06/2020
-    //DESCRIPTION: This class shows the data of a file C:/PRUEBA/students.txt
+    //DESCRIPTION: This class shows all the students listed
     public form_show_all_students(java.awt.Frame parents) {
         super(parents, true);
         setLayout(new BorderLayout());

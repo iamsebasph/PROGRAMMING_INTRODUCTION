@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class file_data_student {
     //AUTHOR: Sebastian Perez Hernandez
     //DATE: 09/06/2020
-    //DESCRIPTION: This class creates and show the data of a file C:/PRUEBA/students.txt
+    //DESCRIPTION: This class creates the form data student and saves it
     public static boolean f_add_student(String p_name, String p_last_name, String p_faculty){
         //DESCRIPTION: This method creates a new line into a file C:/PRUEBA/students.txt
         boolean result;

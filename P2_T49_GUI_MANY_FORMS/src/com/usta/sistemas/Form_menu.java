@@ -8,6 +8,9 @@ import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 
 public class Form_menu extends JFrame {
+    //AUTHOR: Sebastian Perez Hernandez
+    //DATE: 09/06/2020
+    //DESCRIPTION: This class displays the menu
 //This is a constructor (Se ejecuta cada vez que se llama la clase)
    public  Form_menu(){
        JLabel label1= new JLabel("SOFTWARE DE PRUEBA", SwingConstants.CENTER);
